@@ -1,0 +1,91 @@
+body {
+    background-image: url(Kepek/haha.jpg);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: honeydew;
+    color: rgb(0, 0, 0);
+}
+
+#heble {
+    background-color: rgb(102, 102, 51);
+    border-radius: 25px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 5%;
+}
+
+h1 {
+    background-color: hsl(60, 33%, 30%);
+    border-radius: 50px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+    padding: 1%;
+    font-weight: bolder
+}
+
+h2 {
+    text-align: left;
+    font-variant: italic;
+    margin: 30px;
+    font-weight: bolder
+}
+
+hr {
+    padding: 5px;
+    Border-radius: 45px;
+    color: #1f1f14;
+    margin: 20px;
+}
+
+p {
+    font-weight: bold;
+}
+
+nav {
+    background-color: hsl(60, 33%, 30%);
+    font-weight: bold;
+    font-size: 150%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#kugi {
+    height: 70px;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+li {
+    text-align: left;
+    padding: 7px;
+    padding-left: 40px;
+}
+
+.idezet {
+    font-size: 150%;
+    font-style: italic;
+}
+
+td {
+    border: 2px solid black;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#copy {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    background-color: rgb(102, 102, 51);
+    border-radius: 25px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 2%;
+}
